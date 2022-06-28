@@ -136,3 +136,4 @@ ggsave(
 )
 ```
 ---
+<img src="nhts_bargraph.png">
