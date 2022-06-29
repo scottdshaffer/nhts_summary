@@ -1,5 +1,12 @@
-# nhts_summary
-Bar graph visualizing National Household Travel Survey statistics
+# Bar graph showing how travel behavior varies by household income and neighborhood density.
+There are two facts I'm trying to convey here:
+1. People living in dense neighborhoods drive less than people living in less-dense neighborhoods, and
+2. Rich people drive more than poor people.
+
+The [National Household Travel Survey](https://nhts.ornl.gov/) (NHTS) is a better source than the [U.S. Census](https://www.census.gov/topics/employment/commuting.html) (ACS) on transportation behavior, even though it's not updated as frequently. With the American Community Survey, the Census looks only at commuting, which is a small fraction ([around 20%](https://www.transportation.gov/mission/health/commute-mode-share)) of all trips. The NHTS covers trips of any purpose. 
+
+This graph makes it clear (as much as any single graph can, I think) that neighborhood characteristics are correlated with travel behavior.
+
 ---
 ```
 #load packages
